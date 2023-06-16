@@ -1,0 +1,2 @@
+# ABAQUS_Mechanic_Fracture
+ABAQUS_Mechanic_Fracture
